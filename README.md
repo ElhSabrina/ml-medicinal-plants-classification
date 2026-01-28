@@ -29,8 +29,8 @@ KNN obtient de meilleures performances que la régression logistique, ce qui sug
 - scikit-learn
 
 ## Contenu du dépôt
-- `notebooks/` : notebook principal du projet
-- `report/` : rapport PDF
+  - notebook du projet
+  - rapport PDF
 
 ## Lancer le notebook
 1. Installer les dépendances
